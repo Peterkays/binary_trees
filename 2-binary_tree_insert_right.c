@@ -9,7 +9,7 @@
  * Return: If parent is NULL - NULL.
  *         lest - fresh node pointer.
  *
- * 
+ *
  */
 binary_tree_t *binary_tree_insert_right(binary_tree_t *parent, int value)
 {

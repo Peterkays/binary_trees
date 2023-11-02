@@ -1,7 +1,8 @@
 #include "binary_trees.h"
 
 /**
- * binary_tree_preorder - using pre-order traversal it goes through the binary tree.
+ * binary_tree_preorder - using pre-order traversal
+ * it goes through the binary tree.
  * @tree: the pointer of the tree to traverse of the root node.
  * @func: A pointer to a funtn to call for each node.
  */

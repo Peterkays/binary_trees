@@ -6,7 +6,7 @@
  * @value: fresh node value to put.
  *
  * Return: If an error occurs – NULL lest a pointer to the fresh node.
- *         
+ *
 */
 binary_tree_t *binary_tree_node(binary_tree_t *parent, int value)
 {
